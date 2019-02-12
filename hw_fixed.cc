@@ -2,10 +2,10 @@
 #include <vector>
 #include <cmath>
 
-//! brief { The function computes the standard deviation }
-//! \param <int* a> {Array of integers}
-//! \param <int n> { The number of elements in the array (a) }
-//! \return { Returns a double, which is the standard deviation for the set of numbers }
+//! brief 
+//! \param
+//! \param 
+//! \return
 
 double deviation( int* a, int n )
 {
