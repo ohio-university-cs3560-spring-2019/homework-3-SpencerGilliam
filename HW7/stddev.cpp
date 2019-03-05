@@ -11,7 +11,7 @@
 #include <cstdarg>
 #include <cmath>
 
-double stddev(int n, ... )
+double stddev(int n, ...)
 {
 	va_list va;
 	va_start(va, n);
